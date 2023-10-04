@@ -32,8 +32,6 @@ Unless your PR is ready for immediate review and merging, please mark it as 'dra
 
 **Bonus:** Add comments to the diff under the "Files Changed" tab on the PR page to clarify any sections where you think we might have questions about the approach taken.
 
-### Response time:
-We aim to provide a meaningful response to all PRs and issues from external contributors within 2 business days.
 
 ### Changesets
 
