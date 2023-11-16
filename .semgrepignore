@@ -15,9 +15,6 @@ tests/
 # Semgrep rules folder
 .semgrep
 
-# Semgrep-action log folder
-.semgrep_logs/
-
 op-bindings/bindings/
 
 packages/*/node_modules
